@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aurorazoer&label=Profile%20views&color=0e75b6&style=flat" alt="aurorazoer" /> </p>
 
-- 🔭 I’m currently working on **Relation Extraction Algorithm of Knowledge Graph Based on Dependency Relation**
+- 🔭 I’m currently working on **Relation Extraction Algorithm of Knowledge Graph**
 - 🌱 I’m currently learning software engineering in my junior year 👨‍💻
 - 📫 How to reach me: **yiran.zhao3@ucdconnect.ie**
 - ⚡ Fun fact: I have an insatiable passion for photography, yearning to accompany my FUJIFILM on a global odyssey 📸

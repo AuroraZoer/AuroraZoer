@@ -2,16 +2,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aurorazoer&label=Profile%20views&color=0e75b6&style=flat" alt="aurorazoer" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 📫 How to reach me: ...
-- 👨‍💻 Read more about all my projects at 
-- ⚡ Fun fact: ...
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="/https://www.yuyangwang.org/feed.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.yuyangwang.org/feed.xml" height="30" width="40" /></a>
-</p>
+- 🔭 I’m currently working on **Relation Extraction Algorithm of Knowledge Graph Based on Dependency Relation**
+- 🌱 I’m currently learning software engineering in my junior year 👨‍💻
+- 📫 How to reach me: **yiran.zhao3@ucdconnect.ie**
+- ⚡ Fun fact: I have an insatiable passion for photography, yearning to accompany my FUJIFILM on a global odyssey 📸
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -34,10 +28,9 @@
     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 </p>
+<p><img align="left" height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=aurorazoer&show_icons=true&locale=en&layout=compact" alt="aurorazoer" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aurorazoer&show_icons=true&locale=en&layout=compact" alt="aurorazoer" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aurorazoer&show_icons=true&locale=en" alt="aurorazoer" /></p>
+<p>&nbsp;<img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=aurorazoer&show_icons=true&locale=en" alt="aurorazoer" /></p>
 
 
 
@@ -47,11 +40,26 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
+
 - 🤔 I’m looking for help with ...
+
 - 💬 Ask me about ...
+
 - 📫 How to reach me: ...
+
+- 👨‍💻 Read more about all my projects at 
+
 - 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...
--->
+
+<h3 align="left">Connect with me:</h3>
+  <p align="left">
+  <a href="/https://www.yuyangwang.org/feed.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.yuyangwang.org/feed.xml" height="30" width="40" /></a>
+  </p>
+
+  -->

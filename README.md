@@ -2,6 +2,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aurorazoer&label=Profile%20views&color=0e75b6&style=flat" alt="aurorazoer" /> </p>
 
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 📫 How to reach me: ...
+- 👨‍💻 Read more about all my projects at 
+- ⚡ Fun fact: ...
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="/https://www.yuyangwang.org/feed.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.yuyangwang.org/feed.xml" height="30" width="40" /></a>
+</p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
